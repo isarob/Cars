@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 775b33b58ba97b5419483cb2304259ef
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cylinder
+    100004: //RootNode
+    100006: Cylinder_001
+    100008: Cylinder_002
+    100010: Cylinder_003
+    100012: Cube_001
+    100014: Cube_002
+    400000: Cube
+    400002: Cylinder
+    400004: //RootNode
+    400006: Cylinder_001
+    400008: Cylinder_002
+    400010: Cylinder_003
+    400012: Cube_001
+    400014: Cube_002
+    2100000: Black
+    2100002: Chrome
+    2100004: Car
+    2100006: Glass
+    2100008: Brakelight
+    2100010: Indicator
+    2100012: Headlight
+    2100014: Boost
+    2300000: Cube
+    2300002: Cylinder
+    2300004: Cylinder_001
+    2300006: Cylinder_002
+    2300008: Cylinder_003
+    2300010: Cube_001
+    2300012: Cube_002
+    3300000: Cube
+    3300002: Cylinder
+    3300004: Cylinder_001
+    3300006: Cylinder_002
+    3300008: Cylinder_003
+    3300010: Cube_001
+    3300012: Cube_002
+    4300000: Cylinder
+    4300002: Cube
+    4300004: Cylinder_003
+    4300006: Cylinder_002
+    4300008: Cylinder_001
+    4300010: Cube_001
+    4300012: Cube_002
+    6400000: Cube
+    6400002: Cylinder
+    6400004: Cylinder_001
+    6400006: Cylinder_002
+    6400008: Cylinder_003
+    6400010: Cube_001
+    6400012: Cube_002
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 22dd692aaf6345b41a18252b874abb5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boost
+    second: {fileID: 2100000, guid: 03e35608f2ffccb429a0bdb17c5ea4fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brakelight
+    second: {fileID: 2100000, guid: 4a5c03543f4ef5241b3d92c5a71830a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car
+    second: {fileID: 2100000, guid: 29c4cb379cc377a499b660f2a8769a12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 4d79e4392318ec84b8321bac7dfe9bc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: c926a0b362b2c384c9152f49419b8712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Headlight
+    second: {fileID: 2100000, guid: a701da494f4475248ad68826476ebaec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Indicator
+    second: {fileID: 2100000, guid: fe38dcba86637d54582ab9c8455c1a52, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
